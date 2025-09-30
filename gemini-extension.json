@@ -1,0 +1,15 @@
+{
+    "name": "canva-dev-mcp",
+    "version": "1.0.0",
+    "mcpServers": {
+        "canva-dev": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@canva/cli@latest",
+                "mcp"
+            ]
+        }
+    },
+    "contextFileName": "gemini-extension/GEMINI.md"
+}

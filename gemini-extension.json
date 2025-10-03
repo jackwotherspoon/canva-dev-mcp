@@ -2,11 +2,12 @@
     "name": "canva",
     "version": "1.0.0",
     "mcpServers": {
-        "canva": {
-            "httpUrl": "https://mcp.canva.com/mcp",
+      "canva": {
+        "httpUrl": "https://mcp.canva.com/mcp",
         "oauth": {
-            "enabled": true
+          "enabled": true
         }
+      }
     },
     "contextFileName": "gemini-extension/GEMINI.md"
 }
